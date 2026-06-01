@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Master Dashboard",
+  "description": "A centralized dashboard for managing multiple projects, dependencies, and real-time deployment status with an underlying API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
